@@ -2,3 +2,6 @@ Linux C 언어로 Shell 명령어 실행하는 방법 2가지
 
 popen : https://www.joinc.co.kr/w/man/2/popen
 system : http://www.digipine.com/index.php?mid=clan&document_srl=574
+
+shell 명령어로 irsend 기기이름 버튼이름으로 구현을 하면 간단히 동작이 가능할 것으로 생각된다.
+그러나 기기 이름과 버튼 이름을 어떻게 받아와서 어떻게 써야할지...
